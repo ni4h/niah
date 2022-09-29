@@ -1,7 +1,8 @@
 # TEALS (LEVEL 1 HEADING)
 
-*this is text under level 1.* This is for the **Introduction to Software Technologies** class at (Towers High School) https://www.towershs.dekalb.k12.ga.us/ !
-![An image of the Towers High and dekalb County logos](https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png) (https://www.towershs.dekalb.k12.ga.us/
+*this is text under level 1.* This is for the **Introduction to Software Technologies** class at *Towers High School*! Links are easy to make - the highschool can be found [here](https://www.towershs.dekalb.k12.ga.us/).
+
+![An image of the Towers High and dekalb County logos](https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)
 ## LEVEL 2 heading
 we can create "enumerated list" (numbered list)! Three things we'll look at: 
 1.how to use git
@@ -9,17 +10,17 @@ we can create "enumerated list" (numbered list)! Three things we'll look at:
 3.how to use HTML/CSS in Jekyll for pages
 
 We can also make bulleted list! A few languages that we can discuss:
--C/C++
--Fortran
--**Python**
--JUlia
+- C/C++
+- Fortran
+- **Python**
+- JUlia
 
 Tables are also "easy"
-|Column 1||Column 2|
-|-------||-------|
-|Row 1||Value 1|
-|Row 2||Value 2|
-|Row 3||Row 3|
+| Syntax |description |
+|-------|-------|
+| Row 1 | Value 1 |
+| Row 2 | Value 2 |
+| Row 3 | Value 3 |
 
 this is text under level 2
 
