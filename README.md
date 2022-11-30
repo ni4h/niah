@@ -1,5 +1,5 @@
 # TEALS (LEVEL 1 HEADING)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ni4h/niah/tree/main/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ni4h/niah/tree/main/README.md)
 
 *this is text under level 1.* This is for the **Introduction to Software Technologies** class at *Towers High School*! Links are easy to make - the highschool can be found [here](https://www.towershs.dekalb.k12.ga.us/).
 
